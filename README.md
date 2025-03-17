@@ -1,8 +1,3 @@
-   <img height="100" widht="90" src="https://static.vecteezy.com/system/resources/previews/009/665/324/large_2x/cute-kitty-cat-on-train-cartoon-element-free-png.png"/>
-
-##
-
-
 ## Olá, meu nome é Kamila 😃
 
 - 💻 Programadora Back-End.
@@ -24,4 +19,4 @@
 
 ##
 
-<img height="200" widht="90" src="https://img1.picmix.com/output/pic/normal/2/8/0/7/10907082_682b2.gif"/>
+<img height="200" widht="90" src="https://img1.picmix.com/output/pic/normal/2/8/0/7/10907082_682b2.gif"/>  <img height="100" widht="90" src="https://static.vecteezy.com/system/resources/previews/009/665/324/large_2x/cute-kitty-cat-on-train-cartoon-element-free-png.png"/>
